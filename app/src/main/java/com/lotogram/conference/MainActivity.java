@@ -148,7 +148,6 @@ public class MainActivity extends AppCompatActivity implements TextureView.Surfa
 
             setUpCameraOutputs(width, height);
 
-
             setupImageReader(height, width);
 
 //            CameraCharacteristics characteristics
